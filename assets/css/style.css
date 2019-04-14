@@ -1,0 +1,27 @@
+body {
+    width: 1100px;
+    min-height: 520px;
+    background-color: #000000;
+    background: #000000;
+    font-size: 20px;
+    font-family: 'Helvetica Neue', 'Lucida Grande', 'Segoe UI', Arial, Helvetica, Verdana, sans-serif;
+    background-image: url("img_tree.gif");
+    background-repeat: no-repeat, repeat;
+}
+
+#playingBoard {
+    display: none;
+    border: 2px solid #CCCC00;
+    margin: 2px auto auto 0px;
+    padding: 2px;
+    color: #660033;
+}
+
+#title {
+    font-size: 40px;
+}
+
+#divbox {
+    height: 120px;
+    position: absolute;
+}
